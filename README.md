@@ -5,7 +5,9 @@ This projetc analyzes a retail dataset using advanced SQL queries
 ## Tools
 
 PostgreSQL
+
 SQL
+
 PgAdmin
 
 ## Techniques used
@@ -24,7 +26,9 @@ PgAdmin
 ## Project Structure
 
 dataset/ -> dataset
+
 sql/ -> SQL scripts
+
 docs/ -> insights
 
 ## Key Insights
