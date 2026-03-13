@@ -1,8 +1,12 @@
-# sql-sales-analysis
+# Superstore SQL Sales Analysis
 
-## Objective
+This projetc analyzes a retail dataset using advanced SQL queries
 
-This project analyzes an e-commerce sales dataset using advanced SQL.
+## Tools
+
+PostgreSQL
+SQL
+PgAdmin
 
 ## Techniques used
 
@@ -10,3 +14,23 @@ This project analyzes an e-commerce sales dataset using advanced SQL.
 - Window Functions
 - Aggregations
 - Query Optimization
+
+## Business Questions
+
+- Who are the top customers?
+- Which regions generate the most sales?
+- What products perform best in each region?
+
+## Project Structure
+
+dataset/ -> dataset
+sql/ -> SQL scripts
+docs/ -> insights
+
+## Key Insights
+
+Top customers contribute significantly to revenue.
+
+Discounts strongly affect profitability.
+
+Regional sales performance varies significantly.
